@@ -1,5 +1,5 @@
 
-# Sample Hardhat Project
+# Sample CryptoDev AMM project
 
 ### Reference 
 Contents are edited and learned from LearnWeb3DAO. Please visit the original website https://dev.to/learnweb3/build-your-own-decentralized-exchange-use-the-xyk-amm-curve-on-ethereum-using-solidity-ethersjs-nextjs-and-web3modal-3ncn
